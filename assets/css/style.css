@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich|Roboto&display=swap');
+
+.jumbotron{
+    background: url(../img/hunger-games.jpg);
+    }
+.btn{
+    background-color: #DB9065;
+    border-color: #DB9065;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+}
+.btn:hover{
+    background-color: #000;
+    color: #DB9065;
+    border-color: #DB9065;
+}
+#logo{
+    font-family: 'Aldrich', sans-serif;
+    font-size: 18px; 
+    color: #A4031F;
+    margin-bottom: 0;
+}
+.navbar{
+    background: #F2A359;
+}
+.navbar-nav {
+    font-family: 'Aldrich', sans-serif;
+    font-size: 14px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:#000;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#fff;
+    background-color: #A4031F;
+}
+.dropdown-menu.show{
+    background: #F2A359;
+}
+.dropdown-item{
+     font-family: 'Aldrich', sans-serif;
+    font-size: 14px;
+}
+.dropdown-item:hover {
+   background-color: #A4031F;
+    color:#fff;
+    margin: 5px;
+    padding: 5px;
+}
+p{
+font-family: 'Roboto', sans-serif;
+    color: #DB9065;
+    font-size: 15px;
+    max-width: 475px
+}
+
+.lead{
+    font-size: 15px;
+    max-width: 475px;
+}
+p2{
+   font-family: 'Roboto', sans-serif; 
+    font-size: 15px;
+    max-width: 475px;  
+    
+}
+.display-3{
+   font-family: 'Aldrich', sans-serif;
+    font-size: 40px;
+    color: #F2A359;
+}
+#read{
+   background: #F2A359;
+    border-radius: 5px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0 auto;
+    display: block;
+}
+.carousel-inner{
+    max-width: 250px;
+    
+}
